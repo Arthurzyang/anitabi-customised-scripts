@@ -1,6 +1,6 @@
 ![Cover](image.png)
 
-# seichi-junrei-eki-finder-tampermonkey-scripts
+# anitabi-tampermonkey-scripts
 The scripts for Anitabi landmarks
 用于[Anitabi](https://anitabi.cn/map)的一些自用脚本。
 
