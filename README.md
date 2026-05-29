@@ -2,7 +2,7 @@
 
 # anitabi-tampermonkey-scripts
 The scripts for Anitabi landmarks
-用于[Anitabi](https://anitabi.cn/map)的一些自用脚本。
+用于[Anitabi](https://anitabi.cn/map)的一些自用脚本，随意取用，反正都是vibe coding速成的。
 
 | Script Name | Description  |
 |-----------------------------------------------------------------------|-----------------------------------------------------------------------|
